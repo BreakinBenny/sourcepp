@@ -1,12 +1,11 @@
 <map id="vtfpp::VTF" name="vtfpp::VTF">
-<area shape="rect" id="node1" title=" " alt="" coords="841,226,931,251"/>
-<area shape="rect" id="node2" title=" " alt="" coords="548,13,615,38"/>
-<area shape="rect" id="node3" title=" " alt="" coords="492,62,671,87"/>
-<area shape="rect" id="node4" title=" " alt="" coords="544,122,619,147"/>
-<area shape="rect" id="node5" title=" " alt="" coords="544,226,619,251"/>
-<area shape="rect" id="node6" title=" " alt="" coords="548,297,615,322"/>
-<area shape="rect" id="node7" title=" " alt="" coords="511,347,651,387"/>
-<area shape="rect" id="node8" href="$d3/d80/structvtfpp_1_1Resource.html" title=" " alt="" coords="255,354,379,379"/>
-<area shape="rect" id="node9" title=" " alt="" coords="5,354,173,379"/>
-<area shape="rect" id="node10" title=" " alt="" coords="548,411,615,437"/>
+<area shape="rect" id="node1" title=" " alt="" coords="841,246,931,271"/>
+<area shape="rect" id="node2" title=" " alt="" coords="492,15,671,41"/>
+<area shape="rect" id="node3" title=" " alt="" coords="544,75,619,101"/>
+<area shape="rect" id="node4" title=" " alt="" coords="544,179,619,205"/>
+<area shape="rect" id="node5" title=" " alt="" coords="548,309,615,334"/>
+<area shape="rect" id="node6" title=" " alt="" coords="511,359,651,399"/>
+<area shape="rect" id="node7" href="$d3/d80/structvtfpp_1_1Resource.html" title=" " alt="" coords="255,366,379,391"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,366,173,391"/>
+<area shape="rect" id="node9" title=" " alt="" coords="548,423,615,449"/>
 </map>

@@ -1,5 +1,10 @@
 var namespacesourcepp =
 [
+    [ "compression", "d2/d50/namespacesourcepp_1_1compression.html", [
+      [ "compressValveLZMA", "d2/d50/namespacesourcepp_1_1compression.html#a109d3a599428dd45c73232f076d0c7f9", null ],
+      [ "decompressValveLZMA", "d2/d50/namespacesourcepp_1_1compression.html#acbd3e3f47a01b6d6b3d1189d771b34d2", null ],
+      [ "VALVE_LZMA_SIGNATURE", "d2/d50/namespacesourcepp_1_1compression.html#a243ca9a85ac91639079447e730761600", null ]
+    ] ],
     [ "crypto", "db/d83/namespacesourcepp_1_1crypto.html", [
       [ "computeAdler32", "db/d83/namespacesourcepp_1_1crypto.html#ad371d07a92e8f37f023237eaf590b3ad", null ],
       [ "computeCRC32", "db/d83/namespacesourcepp_1_1crypto.html#ae6001c547224efd4b9a34bb0c42d90d3", null ],
@@ -7,8 +12,8 @@ var namespacesourcepp =
       [ "computeSHA256KeyPair", "db/d83/namespacesourcepp_1_1crypto.html#adca36bfd682b13d5f9345ae11cf088b5", null ],
       [ "decodeHexString", "db/d83/namespacesourcepp_1_1crypto.html#af0f8f739fd07fe6acd369b64dd32136f", null ],
       [ "encodeHexString", "db/d83/namespacesourcepp_1_1crypto.html#a97d529d4a2f74e8686a13a26f7243e09", null ],
-      [ "signDataWithSHA256PrivateKey", "db/d83/namespacesourcepp_1_1crypto.html#a0a4ed283db62e7c750a5085db1a60ee6", null ],
-      [ "verifySHA256PublicKey", "db/d83/namespacesourcepp_1_1crypto.html#a37b0b95fc83f9ec196d1bbacf24cf811", null ]
+      [ "signDataWithSHA256PrivateKey", "db/d83/namespacesourcepp_1_1crypto.html#ab47c07cf7ad1e5ea163d791f61279fe1", null ],
+      [ "verifySHA256PublicKey", "db/d83/namespacesourcepp_1_1crypto.html#a65984f637ace6369044d5399f387bef1", null ]
     ] ],
     [ "detail", "dc/daf/namespacesourcepp_1_1detail.html", "dc/daf/namespacesourcepp_1_1detail" ],
     [ "fs", "d9/dd6/namespacesourcepp_1_1fs.html", [
@@ -47,7 +52,11 @@ var namespacesourcepp =
       [ "trim", "d0/d5a/namespacesourcepp_1_1string.html#adf068b2ce737cec15272334d4b704db6", null ],
       [ "trim", "d0/d5a/namespacesourcepp_1_1string.html#a15e63c1ab06cbcbf336bc87191d99a22", null ],
       [ "trim", "d0/d5a/namespacesourcepp_1_1string.html#a3f42811d591cf1dcb5576c20daf682c3", null ],
-      [ "trim", "d0/d5a/namespacesourcepp_1_1string.html#a696dfaae8a570aee1870092baaa65ee0", null ]
+      [ "trim", "d0/d5a/namespacesourcepp_1_1string.html#a696dfaae8a570aee1870092baaa65ee0", null ],
+      [ "trimInternal", "d0/d5a/namespacesourcepp_1_1string.html#ab341659bdd09ebfe800050eb1e464112", null ],
+      [ "trimInternal", "d0/d5a/namespacesourcepp_1_1string.html#a0a15be36f8e5825621c6551a60755f78", null ],
+      [ "trimInternal", "d0/d5a/namespacesourcepp_1_1string.html#a3e7bd3b0582932b9943ec3e3a75fd9ff", null ],
+      [ "trimInternal", "d0/d5a/namespacesourcepp_1_1string.html#ab888485442c835a8d5019e374b8cb8c2", null ]
     ] ],
     [ "member_type", "d1/dc0/structsourcepp_1_1member__type.html", null ],
     [ "member_type_t", "d2/deb/namespacesourcepp.html#af05c7c214cd15e75c782e80ef948579b", null ]

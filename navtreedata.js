@@ -27,10 +27,13 @@ var NAVTREE =
   [ "SourcePP", "index.html", [
     [ "Cache Generation Steps", "dc/d45/md_src_steampp_cache_README.html", null ],
     [ "Namespaces", "namespaces.html", [
-      [ "Included Libraries", "index.html#autotoc_md0", null ],
-      [ "Wrappers", "index.html#autotoc_md1", null ],
-      [ "Special Thanks", "index.html#autotoc_md2", null ],
-      [ "Gallery", "index.html#autotoc_md3", null ],
+      [ "Other Languages", "index.html#autotoc_md0", null ],
+      [ "Included Libraries", "index.html#autotoc_md1", null ],
+      [ "Gallery", "index.html#autotoc_md2", [
+        [ "Tools", "index.html#autotoc_md3", null ],
+        [ "Games", "index.html#autotoc_md4", null ]
+      ] ],
+      [ "Special Thanks", "index.html#autotoc_md5", null ],
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", "namespacemembers_dup" ],
@@ -71,24 +74,28 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d0/dcf/structtoolpp_1_1FGD_1_1AutoVisGroup.html#a912351343460c9f6ad4feb7a0fb4d073",
-"d1/da5/classvpkpp_1_1WAD3.html#aa09c72dc530570d21db8f7c311c7dbdc",
-"d2/dd1/BSP_8h.html#a9cb52214dd23962b3ae112be2b95e2d0a0f4e64d97cf1c5a022ef25fc8f9d22a1",
-"d3/d08/structvpkpp_1_1GCF_1_1Header.html#adf7c4c73da43f07330e212d5059d11dd",
-"d3/dec/classvpkpp_1_1OO7.html#ade6cbb085bbd261d8e93d12856a7d587",
-"d4/ddb/classvpkpp_1_1VPK__VTMB.html#aa70fdb30e765f272b19741e545803490",
-"d5/d7f/structvtfpp_1_1ImagePixel_1_1BGRA8888.html",
-"d5/daa/structmdlpp_1_1MDL_1_1MDL.html#aa81fef9b54d95b499a1b45c2305d8603",
-"d6/d07/structbsppp_1_1BSPGameLump.html#ab5ff8d7ba65cf5a261cd19f21d159e71",
-"d7/d45/namespacedmxpp_1_1Value.html#af5d3dcc8a6e393d5fd5384c83692ab1ea7baf723b2a575ce54a6013d4264c080f",
-"d8/d85/structbsppp_1_1BSPFace__v2.html",
-"d8/df2/classvtfpp_1_1VTF.html#aa203515ee52f1d82378a4bd97823a51aa36e13f096b1a59fe5e0039d58591a4ef",
-"d9/d81/classsteampp_1_1Steam.html#a1f23b89cb2c68e2fefaa7e39902d643b",
-"da/d42/classvpkpp_1_1FPX.html",
-"db/dee/structmdlpp_1_1StudioModel.html#afd1b2c935828f448f006bddb4d1afcdf",
-"dd/d73/namespacevtfpp_1_1ImagePixel.html#a660580f5b7a5b30ba030ccc7c50e289d",
-"de/d90/namespacevtfpp.html#aec3345feb8c8d1832efd60bd78ba336cafd301d675be7b677ba979a430a80c010",
-"functions_vars_r.html"
+"d0/dbe/conceptbsppp_1_1BSPEntityKeyValueType.html",
+"d1/d62/structvpkpp_1_1GCF_1_1DirectoryEntry.html",
+"d2/d9f/structtoolpp_1_1FGD_1_1Entity_1_1Field.html#a259c3f38f7fb4a0fb09767d44f92ccc0",
+"d2/dd2/classvpkpp_1_1PackFile.html#a7820095a5e8cc9106d99d11bf614f557",
+"d3/d2b/structvtfpp_1_1VTF_1_1CreationOptions.html#adacd198dcd8ab31aeebad93b8485ce6c",
+"d3/df4/PackFile_8h.html#a05b5908a562a1f3e7bff1b1ca8d04fb7",
+"d4/ddb/classvpkpp_1_1VPK__VTMB.html#a347b1bfbee9d974ae2d8eb2a16163b24",
+"d5/d62/classtoolpp_1_1CmdSeq.html#a61c9b69b3fef4264e3f8698f575c2655a98ad0e8750ae10ad556ed7a62affb452",
+"d5/daa/structmdlpp_1_1MDL_1_1MDL.html#a29599182f995e832d99feaf8f293024a",
+"d5/dd7/VICE_8h.html",
+"d6/d35/Text_8h.html#ad8e2883e19b4f8256307901a1d68a67b",
+"d7/db2/classbsppp_1_1BSPEntityKeyValues.html#adfd29203eff0eed916a880ef4c92ed2c",
+"d8/dc3/structtoolpp_1_1FGD_1_1Entity.html#a705afb8b16ccb62c2e6449a79281d987",
+"d8/df2/classvtfpp_1_1VTF.html#aaa834c22ddc653f0dc5fc2e72fe97801",
+"d9/d12/classsndpp_1_1XWV.html#a1626f2fa470349cdac80591d8226cef5ac8c1fd063508a592f646c3e4f10d8ef3",
+"d9/daf/classvpkpp_1_1PAK.html#a4322cc16cd73d99c951be7ad59133bb2a5b001d63db54e7383587771eeb2018a1",
+"da/d60/ExamplePackFileImpl_8h_source.html",
+"db/dde/classvtfpp_1_1SHT.html#a539a51f86df4e2e61bca678696a68782",
+"dd/d11/namespacebsppp.html#a9cb52214dd23962b3ae112be2b95e2d0aadf7a75abda3b4835e296fea4da84d46",
+"de/d62/classkvpp_1_1KV1ElementBase.html#a34493dea9c79dfc04895b24e134607e1",
+"df/d32/classvtfpp_1_1PPL.html#a1b4cfec5d6830eb8a4dffc3c9eee0ab7",
+"df/dc5/classsndpp_1_1WAV.html#ae527435edde503c48ed11b6173a037c9ab8cf3d36cd4ebd0d191e7bae56d2f26b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

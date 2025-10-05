@@ -29,11 +29,17 @@ var annotated_dup =
       [ "DMXAttribute", "dc/d56/structdmxpp_1_1DMXAttribute.html", "dc/d56/structdmxpp_1_1DMXAttribute" ],
       [ "DMXElement", "d4/d6d/structdmxpp_1_1DMXElement.html", "d4/d6d/structdmxpp_1_1DMXElement" ]
     ] ],
+    [ "fspp", "d9/d5a/namespacefspp.html", [
+      [ "FileSystem", "d7/dca/classfspp_1_1FileSystem.html", "d7/dca/classfspp_1_1FileSystem" ],
+      [ "FileSystemOptions", "d8/d61/structfspp_1_1FileSystemOptions.html", "d8/d61/structfspp_1_1FileSystemOptions" ]
+    ] ],
     [ "gamepp", "de/d04/namespacegamepp.html", [
       [ "GameInstance", "d2/dc0/classgamepp_1_1GameInstance.html", "d2/dc0/classgamepp_1_1GameInstance" ]
     ] ],
     [ "kvpp", "d8/d57/namespacekvpp.html", [
       [ "KV1", "de/d0f/classkvpp_1_1KV1.html", "de/d0f/classkvpp_1_1KV1" ],
+      [ "KV1Binary", "dc/d38/classkvpp_1_1KV1Binary.html", "dc/d38/classkvpp_1_1KV1Binary" ],
+      [ "KV1BinaryElement", "d3/d03/classkvpp_1_1KV1BinaryElement.html", "d3/d03/classkvpp_1_1KV1BinaryElement" ],
       [ "KV1ElementBase", "de/d62/classkvpp_1_1KV1ElementBase.html", "de/d62/classkvpp_1_1KV1ElementBase" ],
       [ "KV1ElementReadable", "d4/d2d/classkvpp_1_1KV1ElementReadable.html", "d4/d2d/classkvpp_1_1KV1ElementReadable" ],
       [ "KV1ElementWritable", "de/d75/classkvpp_1_1KV1ElementWritable.html", "de/d75/classkvpp_1_1KV1ElementWritable" ],
@@ -71,6 +77,10 @@ var annotated_dup =
       [ "Movement", "d1/dbd/structmdlpp_1_1Movement.html", "d1/dbd/structmdlpp_1_1Movement" ],
       [ "StudioModel", "db/dee/structmdlpp_1_1StudioModel.html", "db/dee/structmdlpp_1_1StudioModel" ]
     ] ],
+    [ "sndpp", "d3/db4/namespacesndpp.html", [
+      [ "WAV", "df/dc5/classsndpp_1_1WAV.html", "df/dc5/classsndpp_1_1WAV" ],
+      [ "XWV", "d9/d12/classsndpp_1_1XWV.html", "d9/d12/classsndpp_1_1XWV" ]
+    ] ],
     [ "sourcepp", "d2/deb/namespacesourcepp.html", [
       [ "detail", "dc/daf/namespacesourcepp_1_1detail.html", [
         [ "member_type_helper", "d9/de7/structsourcepp_1_1detail_1_1member__type__helper.html", null ],
@@ -105,6 +115,7 @@ var annotated_dup =
       [ "FPX", "da/d42/classvpkpp_1_1FPX.html", "da/d42/classvpkpp_1_1FPX" ],
       [ "GCF", "d1/d01/classvpkpp_1_1GCF.html", "d1/d01/classvpkpp_1_1GCF" ],
       [ "GMA", "d6/d2c/classvpkpp_1_1GMA.html", "d6/d2c/classvpkpp_1_1GMA" ],
+      [ "HOG", "dd/d46/classvpkpp_1_1HOG.html", "dd/d46/classvpkpp_1_1HOG" ],
       [ "OL", "d4/d47/classvpkpp_1_1OL.html", "d4/d47/classvpkpp_1_1OL" ],
       [ "OO7", "d3/dec/classvpkpp_1_1OO7.html", "d3/dec/classvpkpp_1_1OO7" ],
       [ "ORE", "d8/d00/classvpkpp_1_1ORE.html", "d8/d00/classvpkpp_1_1ORE" ],
@@ -114,7 +125,9 @@ var annotated_dup =
       [ "PCK", "d5/db5/classvpkpp_1_1PCK.html", "d5/db5/classvpkpp_1_1PCK" ],
       [ "VPK", "d5/d8b/classvpkpp_1_1VPK.html", "d5/d8b/classvpkpp_1_1VPK" ],
       [ "VPK_VTMB", "d4/ddb/classvpkpp_1_1VPK__VTMB.html", "d4/ddb/classvpkpp_1_1VPK__VTMB" ],
+      [ "VPP", "d6/d17/classvpkpp_1_1VPP.html", "d6/d17/classvpkpp_1_1VPP" ],
       [ "WAD3", "d1/da5/classvpkpp_1_1WAD3.html", "d1/da5/classvpkpp_1_1WAD3" ],
+      [ "XZP", "d8/ddc/classvpkpp_1_1XZP.html", "d8/ddc/classvpkpp_1_1XZP" ],
       [ "ZIP", "da/de7/classvpkpp_1_1ZIP.html", "da/de7/classvpkpp_1_1ZIP" ]
     ] ],
     [ "vtfpp", "de/d90/namespacevtfpp.html", [
@@ -124,7 +137,6 @@ var annotated_dup =
         [ "ARGB8888", "d6/dd0/structvtfpp_1_1ImagePixel_1_1ARGB8888.html", "d6/dd0/structvtfpp_1_1ImagePixel_1_1ARGB8888" ],
         [ "BGR565", "d9/d48/structvtfpp_1_1ImagePixel_1_1BGR565.html", "d9/d48/structvtfpp_1_1ImagePixel_1_1BGR565" ],
         [ "BGR888", "d8/d63/structvtfpp_1_1ImagePixel_1_1BGR888.html", "d8/d63/structvtfpp_1_1ImagePixel_1_1BGR888" ],
-        [ "BGR888_BLUESCREEN", "d2/dd2/structvtfpp_1_1ImagePixel_1_1BGR888__BLUESCREEN.html", "d2/dd2/structvtfpp_1_1ImagePixel_1_1BGR888__BLUESCREEN" ],
         [ "BGRA1010102", "de/d7c/structvtfpp_1_1ImagePixel_1_1BGRA1010102.html", "de/d7c/structvtfpp_1_1ImagePixel_1_1BGRA1010102" ],
         [ "BGRA4444", "d0/d1c/structvtfpp_1_1ImagePixel_1_1BGRA4444.html", "d0/d1c/structvtfpp_1_1ImagePixel_1_1BGRA4444" ],
         [ "BGRA5551", "dd/d5e/structvtfpp_1_1ImagePixel_1_1BGRA5551.html", "dd/d5e/structvtfpp_1_1ImagePixel_1_1BGRA5551" ],
@@ -142,7 +154,6 @@ var annotated_dup =
         [ "RGB323232F", "d0/d5b/structvtfpp_1_1ImagePixel_1_1RGB323232F.html", "d0/d5b/structvtfpp_1_1ImagePixel_1_1RGB323232F" ],
         [ "RGB565", "d0/d92/structvtfpp_1_1ImagePixel_1_1RGB565.html", "d0/d92/structvtfpp_1_1ImagePixel_1_1RGB565" ],
         [ "RGB888", "d0/d24/structvtfpp_1_1ImagePixel_1_1RGB888.html", "d0/d24/structvtfpp_1_1ImagePixel_1_1RGB888" ],
-        [ "RGB888_BLUESCREEN", "d1/d7e/structvtfpp_1_1ImagePixel_1_1RGB888__BLUESCREEN.html", "d1/d7e/structvtfpp_1_1ImagePixel_1_1RGB888__BLUESCREEN" ],
         [ "RGBA1010102", "d4/d5b/structvtfpp_1_1ImagePixel_1_1RGBA1010102.html", "d4/d5b/structvtfpp_1_1ImagePixel_1_1RGBA1010102" ],
         [ "RGBA16161616", "d9/d32/structvtfpp_1_1ImagePixel_1_1RGBA16161616.html", "d9/d32/structvtfpp_1_1ImagePixel_1_1RGBA16161616" ],
         [ "RGBA16161616F", "d0/de9/structvtfpp_1_1ImagePixel_1_1RGBA16161616F.html", "d0/de9/structvtfpp_1_1ImagePixel_1_1RGBA16161616F" ],
@@ -153,9 +164,11 @@ var annotated_dup =
         [ "UVLX8888", "d3/df9/structvtfpp_1_1ImagePixel_1_1UVLX8888.html", "d3/df9/structvtfpp_1_1ImagePixel_1_1UVLX8888" ],
         [ "UVWQ8888", "dd/d9f/structvtfpp_1_1ImagePixel_1_1UVWQ8888.html", "dd/d9f/structvtfpp_1_1ImagePixel_1_1UVWQ8888" ]
       ] ],
+      [ "HOT", "da/d9a/classvtfpp_1_1HOT.html", "da/d9a/classvtfpp_1_1HOT" ],
       [ "PPL", "df/d32/classvtfpp_1_1PPL.html", "df/d32/classvtfpp_1_1PPL" ],
       [ "Resource", "d3/d80/structvtfpp_1_1Resource.html", "d3/d80/structvtfpp_1_1Resource" ],
       [ "SHT", "db/dde/classvtfpp_1_1SHT.html", "db/dde/classvtfpp_1_1SHT" ],
+      [ "TTX", "df/d47/classvtfpp_1_1TTX.html", "df/d47/classvtfpp_1_1TTX" ],
       [ "VTF", "d8/df2/classvtfpp_1_1VTF.html", "d8/df2/classvtfpp_1_1VTF" ]
     ] ]
 ];
